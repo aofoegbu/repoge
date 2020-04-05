@@ -3,3 +3,7 @@ body {
     border: 1px dotted black;
     color: steelblue;
 }
+
+p {
+    color: tomato;
+}
